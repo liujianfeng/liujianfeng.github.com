@@ -1,13 +1,12 @@
-baseurl: liujianfeng.github.com
 markdown: rdiscount 
 permalink: /:year/:month/:title 
 title: KennyWorld
 url: http://liujianfeng.github.com
-subscribe: 
+subscribe: http://liujianfeng.github.com/feed
 exclude: [ README.md, newpost.rb ]
-domain: 
-author: 
-email: 
+domain: http://liujianfeng.github.com
+author: KennyWorld
+email: kennyworld2003@msn.com
 auto: true
 twitterID: 
-duoshuoShortname:  
+duoshuoShortname:  liujianfeng
