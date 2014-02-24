@@ -1,1 +1,13 @@
 baseurl: liujianfeng.github.com
+markdown: rdiscount 
+permalink: /:year/:month/:title 
+title: KennyWorld
+url: http://liujianfeng.github.com
+subscribe: 
+exclude: [ README.md, newpost.rb ]
+domain: 
+author: 
+email: 
+auto: true
+twitterID: 
+duoshuoShortname:  
