@@ -1,5 +1,7 @@
+encoding: utf-8
 markdown: rdiscount 
 permalink: /:year/:month/:title 
+sitename: KennyWorld
 title: KennyWorld
 url: http://liujianfeng.github.com
 subscribe: http://liujianfeng.github.com/feed
