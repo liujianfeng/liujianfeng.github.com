@@ -162,7 +162,7 @@ ol {
     list-style: decimal;
 }
 li {
-    /*line-height: 30px;*/
+    line-height: 30px;
 }
 ul.unstyled {
     margin-left: 0;
