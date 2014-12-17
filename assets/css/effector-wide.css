@@ -162,7 +162,7 @@ ol {
     list-style: decimal;
 }
 li {
-    line-height: 30px;
+    /*line-height: 30px;*/
 }
 ul.unstyled {
     margin-left: 0;
@@ -396,24 +396,25 @@ ol.linenums li {
 }
 .wrapper  {
     background-color:  #fff;
-    margin:  10px 0px 50px 0px;
-    padding:  10px 0px;
+    margin:  10px 0 50px 0;
+    padding:  10px 0;
 }
 
 .postsList {
-    margin: 0px 0px 10px 0px;
+    margin: 0 0 10px 0;
 }
 
 .postsList li{
-  list-style: none;
-  padding: 5px 3px;
-  margin: 0;
-  border-bottom: 1px solid #eee;
+    list-style: none;
+    line-height: 30px;
+    padding: 5px 3px;
+    margin: 0;
+    border-bottom: 1px solid #eee;
 }
 .postsList li span{
     color: #bbb;
-  float: right;
-  font-size: 14px;
+    float: right;
+    font-size: 14px;
 }
 
 @media only screen and (max-width:768px) {
@@ -428,9 +429,6 @@ ol.linenums li {
 }
 
 .wrapper  {
-    background-color:  #fff;
-    margin:  10px 0px 20px 0px;
+    background-color: #fff;
+    margin: 10px 0 20px 0;
 }
-
-
-
