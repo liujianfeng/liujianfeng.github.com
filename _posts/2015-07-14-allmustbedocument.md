@@ -1,7 +1,6 @@
-# encoding: utf-8
 --- 
 layout: post
-title: allmustbedocument
+title: 内部系统介绍
 date: 2015-07-14 13:37:26
 categories:
     - 工作
